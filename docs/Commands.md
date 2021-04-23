@@ -62,7 +62,7 @@ title: Commands
 - **`!voteskip`** - Votes to skip the current playing song. **[More Info](/voteskip#how-many-votes-are-required-for-a-song-to-be-vote-skipped)**
     - **Alias:** `skip`, `next`, `s`
 ---
-- **`!forceskip`** - Skips the current playing song immediately.
+- **`!skip`** - Skips the current playing song immediately.
     - **Other Usage:** `!forceskip <number>` - Skip a certain amount of songs.
     - **Aliases:** `fs`, `fskip`
     - **Note:** `DJ` role/`Manage Channels` permission required.
